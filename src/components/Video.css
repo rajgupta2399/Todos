@@ -1,0 +1,18 @@
+.del{
+    background-color: #d62828;
+    color: #fff;
+}
+
+.edit{
+    background-color: #386641;
+    color: #fff;
+}
+
+
+.del.dark{
+    background-color: red;
+}
+
+.edit.dark{
+    background-color: green;
+}
